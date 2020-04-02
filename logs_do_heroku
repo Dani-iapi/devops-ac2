@@ -1,0 +1,10 @@
+2020-04-02T21:56:47.818850+00:00 app[api]: Initial release by user daniela.araujo@aluno.faculdadeimpacta.com.br
+2020-04-02T21:56:47.818850+00:00 app[api]: Release v1 created by user daniela.araujo@aluno.faculdadeimpacta.com.br
+2020-04-02T21:56:47.938006+00:00 app[api]: Release v2 created by user daniela.araujo@aluno.faculdadeimpacta.com.br
+2020-04-02T21:56:47.938006+00:00 app[api]: Enable Logplex by user daniela.araujo@aluno.faculdadeimpacta.com.br
+2020-04-02T21:57:47.000000+00:00 app[api]: Build started by user daniela.araujo@aluno.faculdadeimpacta.com.br
+2020-04-02T21:58:13.127419+00:00 app[api]: Release v3 created by user daniela.araujo@aluno.faculdadeimpacta.com.br
+2020-04-02T21:58:13.127419+00:00 app[api]: Deploy 8f1ecacb by user daniela.araujo@aluno.faculdadeimpacta.com.br
+2020-04-02T21:58:24.000000+00:00 app[api]: Build succeeded
+2020-04-02T22:09:21.154698+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=still-thicket-30236.herokuapp.com request_id=1049e482-9ea1-4695-acda-0fef0d61b5c0 fwd="186.204.38.16" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T22:09:21.926338+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=still-thicket-30236.herokuapp.com request_id=431e0d8b-208f-4d8c-8526-a3642cd020dc fwd="186.204.38.16" dyno= connect= service= status=503 bytes= protocol=https
